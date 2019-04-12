@@ -32,7 +32,7 @@ This the expected use for this assignment.
 ## To obtain this code...
 ... you must first obtain a copy of the source. Do that by cloning this repository:
 
-    git clone https://bitbucket.org/TedNeward/uw-android-simplekotlin complexkotlin
+    git clone https://bitbucket.org/TedNeward/uw-android-complexkotlin complexkotlin
 
 This will create a local copy of the project. However, in order to *store* your changes to your own GitHub account, you need to create a new repository on GitHub (call it `simplekotlin`), and then change the project's settings to point to that new repository as the remote origin.
 
